@@ -39,6 +39,6 @@ For example, in the provided seating chart, **seat B2 is marked with an 'X' and 
 - Integrating a **database** to store reservation data persistently.
 
 ---
-**Author:** Your Name  
+**Author:** Yasii  
 **Repository:** [GitHub Repository Link](https://github.com/your-username/your-repo)
 
